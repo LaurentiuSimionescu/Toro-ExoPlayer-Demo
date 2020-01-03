@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="toro_media_button_height">48dp</dimen>
+    <dimen name="toro_media_button_width">65dp</dimen>
+    <item name="volume_bar" type="id"/>
+    <string name="enable_random_adaptation">Enable random adaptation</string>
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_no_decoder">This device does not provide a decoder for <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_unsupported_audio">Media includes audio tracks, but none are playable by this device</string>
+    <string name="error_unsupported_video">Media includes video tracks, but none are playable by this device</string>
+    <string name="exo_controls_volume_off_description">Volume Off</string>
+    <string name="exo_controls_volume_up_description">Volume Up</string>
+    <string name="notification_channel_id">Downloading</string>
+    <string name="sample_list_load_error">One or more sample lists failed to load</string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <string name="unexpected_intent_action">Unexpected intent action: <ns1:g id="action">%1$s</ns1:g></string>
+    <style name="ToroMediaButton">
+    <item name="android:background">@null</item>
+    <item name="android:layout_width">@dimen/toro_media_button_width</item>
+    <item name="android:layout_height">@dimen/toro_media_button_height</item>
+  </style>
+    <style name="ToroMediaButton.Pause">
+    <item name="android:src">@drawable/exo_controls_pause</item>
+    <item name="android:contentDescription">@string/exo_controls_pause_description</item>
+  </style>
+    <style name="ToroMediaButton.Play">
+    <item name="android:src">@drawable/exo_controls_play</item>
+    <item name="android:contentDescription">@string/exo_controls_play_description</item>
+  </style>
+    <style name="ToroMediaButton.VolumeOff">
+    <item name="android:src">@drawable/ic_volume_off_black_24dp</item>
+    <item name="android:contentDescription">@string/exo_controls_volume_off_description</item>
+  </style>
+    <style name="ToroMediaButton.VolumeUp">
+    <item name="android:src">@drawable/ic_volume_up_black_24dp</item>
+    <item name="android:contentDescription">@string/exo_controls_volume_up_description</item>
+  </style>
+</resources>

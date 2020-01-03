@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Toro ExoPlayer.iml" filepath="$PROJECT_DIR$/Toro ExoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toro-core/toro-core.iml" filepath="$PROJECT_DIR$/toro-core/toro-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toro-exoplayer/toro-exoplayer.iml" filepath="$PROJECT_DIR$/toro-exoplayer/toro-exoplayer.iml" />
+    </modules>
+  </component>
+</project>

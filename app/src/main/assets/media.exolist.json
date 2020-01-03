@@ -1,0 +1,112 @@
+[
+  {
+    "name": "HLS",
+    "samples": [
+      {
+        "name": "Video 01",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video01/playlist.m3u8"
+      },
+      {
+        "name": "Video 02",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video02/playlist.m3u8"
+      },
+      {
+        "name": "Video 03",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video03/playlist.m3u8"
+      },
+      {
+        "name": "Video 04",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video04/playlist.m3u8"
+      },
+      {
+        "name": "Video 05",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video05/playlist.m3u8"
+      },
+      {
+        "name": "Video 06",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video06/playlist.m3u8"
+      },
+      {
+        "name": "Video 07",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video07/playlist.m3u8"
+      },
+      {
+        "name": "Video 08",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video08/playlist.m3u8"
+      },
+      {
+        "name": "Video 09",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video09/playlist.m3u8"
+      },
+      {
+        "name": "Video 10",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video10/playlist.m3u8"
+      },
+      {
+        "name": "Video 11",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video11/playlist.m3u8"
+      },
+      {
+        "name": "Video 12",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video12/playlist.m3u8"
+      },
+      {
+        "name": "Video 13",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video13/playlist.m3u8"
+      },
+      {
+        "name": "Video 14",
+        "uri": "https://storage.googleapis.com/adumitra-test/video4/video14/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Misc",
+    "samples": [
+      {
+        "name": "Dizzy (MP4)",
+        "uri": "https://html5demos.com/assets/dizzy.mp4"
+      },
+      {
+        "name": "Apple AAC 10s",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/fileSequence0.aac"
+      },
+      {
+        "name": "Apple TS 10s",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/fileSequence0.ts"
+      },
+      {
+        "name": "Android screens (Matroska)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv"
+      },
+      {
+        "name": "Screens 360P (WebM,VP9,No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-vp9-360.webm"
+      },
+      {
+        "name": "Screens 480p (FMP4,H264,No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4"
+      },
+      {
+        "name": "Screens 1080p (FMP4,H264, No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+      },
+      {
+        "name": "Screens (FMP4,AAC Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/audio-141.mp4"
+      },
+      {
+        "name": "Google Play (MP3 Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-0/play.mp3"
+      },
+      {
+        "name": "Google Play (Ogg/Vorbis Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/ogg/play.ogg"
+      },
+      {
+        "name": "Big Buck Bunny (FLV Video)",
+        "uri": "https://vod.leasewebcdn.com/bbb.flv?ri=1024&rs=150&start=0"
+      }
+    ]
+  }
+]
